@@ -1,0 +1,14 @@
+button
+{
+	font-size: .85em !important;
+}
+/* Large Screen min-width: 48.25em */
+@media screen and (min-width: 1000px) 
+{
+	
+	button
+	{
+		font-size: 1em;
+	}
+
+}

@@ -1,0 +1,17 @@
+body {
+	background: url(Background.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.final-project-description {
+	margin-top: 11em;
+}
+/* Larger Screens min-width: 48.25em */
+@media screen and (min-width: 600px) 
+{
+	/*reset welcome screen*/
+	.final-project-description {
+		margin-top: 0em;
+	}
+	
+}
